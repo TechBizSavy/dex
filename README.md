@@ -37,7 +37,13 @@ The server will run on `http://localhost:3000`.
 ---
 
 ## Example Usage
-                                                  
+
+## Buy Assest                                      
+![Screenshot 2025-01-14 134724](https://github.com/user-attachments/assets/d3409d83-1351-47a4-8c25-6efb83919fc0)
+
+## Sell Assest
+![Screenshot 2025-01-14 134738](https://github.com/user-attachments/assets/5c52ec05-76ef-4c9f-a4ab-b79fa0033c4b)
+              
 ## Note
 Balances are reset every time the server restarts.
 
